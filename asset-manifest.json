@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JoePShoulak/fimbulwintr/static/css/main.073c9b0a.css",
+    "main.js": "/JoePShoulak/fimbulwintr/static/js/main.3c70945c.js",
+    "static/js/787.a6dcc7c5.chunk.js": "/JoePShoulak/fimbulwintr/static/js/787.a6dcc7c5.chunk.js",
+    "index.html": "/JoePShoulak/fimbulwintr/index.html",
+    "main.073c9b0a.css.map": "/JoePShoulak/fimbulwintr/static/css/main.073c9b0a.css.map",
+    "main.3c70945c.js.map": "/JoePShoulak/fimbulwintr/static/js/main.3c70945c.js.map",
+    "787.a6dcc7c5.chunk.js.map": "/JoePShoulak/fimbulwintr/static/js/787.a6dcc7c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3c70945c.js"
+  ]
+}

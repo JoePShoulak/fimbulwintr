@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fimbulwintr/static/css/main.073c9b0a.css",
-    "main.js": "/fimbulwintr/static/js/main.1c9dcfbe.js",
+    "main.js": "/fimbulwintr/static/js/main.dc8d2450.js",
     "static/js/787.a6dcc7c5.chunk.js": "/fimbulwintr/static/js/787.a6dcc7c5.chunk.js",
     "index.html": "/fimbulwintr/index.html",
     "main.073c9b0a.css.map": "/fimbulwintr/static/css/main.073c9b0a.css.map",
-    "main.1c9dcfbe.js.map": "/fimbulwintr/static/js/main.1c9dcfbe.js.map",
+    "main.dc8d2450.js.map": "/fimbulwintr/static/js/main.dc8d2450.js.map",
     "787.a6dcc7c5.chunk.js.map": "/fimbulwintr/static/js/787.a6dcc7c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1c9dcfbe.js"
+    "static/js/main.dc8d2450.js"
   ]
 }
